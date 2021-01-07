@@ -1,0 +1,45 @@
+*{
+    text-align: center;
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+#solution {
+    border: 1px solid black;
+}
+
+#solution {
+    Width: 100px;
+    height: 100px;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+
+#addition {
+    background-color: grey;
+    color: white;
+    border: 5px solid grey;
+    Width: 100px;
+    height: 100px;
+}
+
+#number {
+    border: 5px solid grey;
+    Width: 100px;
+    height: 100px;
+}
+
+#subtraction {
+    background-color: grey;
+    color: white;
+    border: 5px solid grey;
+    Width: 100px;
+    height: 100px;
+}
